@@ -1,0 +1,20 @@
+@import "components/navbar.css";
+@import "components/button.css";
+@import "base/typography.css";
+@import "base/color.css";
+@import "components/container.css";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+section {
+  margin: 5rem 0;
+  padding: 5rem;
+}
+
+li {
+  list-style-type: none;
+}
